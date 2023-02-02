@@ -15,7 +15,7 @@ I have given my best to understand Intel's buisness performance according to IVY
 Please note that this is my first attempt at BA and as such , I welcome constructive criticism as well.   
 
 Dashboard is hosted at https://www.novypro.com/project/tech   
-You may find the profiling report here :  
+You may find the profiling report here :  https://abishek-ks.github.io/TopTechStocks_Analysis/
 Snapshots of the code : 
 ![image](https://user-images.githubusercontent.com/97246536/216317076-3d71542d-9361-4465-9692-87507dbd57e6.png)
 
